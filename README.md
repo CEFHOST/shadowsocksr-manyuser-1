@@ -13,16 +13,16 @@ Server
 Debian / Ubuntu:
 
     apt-get install git
-    git clone https://github.com/shadowsocksr/shadowsocksr.git
+    git clone https://github.com/maxsky/shadowsocksr-manyuser.git
 
 CentOS:
 
     yum install git
-    git clone https://github.com/shadowsocksr/shadowsocksr.git
+    git clone https://github.com/maxsky/shadowsocksr-manyuser.git
 
 Windows:
 
-    git clone https://github.com/shadowsocksr/shadowsocksr.git
+    git clone https://github.com/maxsky/shadowsocksr-manyuser.git
 
 ### Usage for single user on linux platform
 
@@ -93,13 +93,12 @@ Bugs and Issues
 
 
 
-[Android]:           https://github.com/shadowsocksr/shadowsocksr-android
-[Build Status]:      https://travis-ci.org/shadowsocksr/shadowsocksr.svg?branch=manyuser
-[Debian sid]:        https://packages.debian.org/unstable/python/shadowsocks
+[Android]:           https://github.com/shadowsocksrr/shadowsocksr-android/releases
+[Build Status]:      https://api.travis-ci.org/maxsky/shadowsocksr-manyuser.svg
 [iOS]:               https://github.com/shadowsocks/shadowsocks-iOS/wiki/Help
-[Issue Tracker]:     https://github.com/shadowsocksr/shadowsocksr/issues?state=open
+[Issue Tracker]:     https://github.com/maxsky/shadowsocksr-manyuser/issues
 [OpenWRT]:           https://github.com/shadowsocks/openwrt-shadowsocks
-[macOS]:             https://github.com/shadowsocksr/ShadowsocksX-NG
-[Travis CI]:         https://travis-ci.org/shadowsocksr/shadowsocksr
-[Windows]:           https://github.com/shadowsocksr/shadowsocksr-csharp
-[Wiki]:              https://github.com/breakwa11/shadowsocks-rss/wiki
+[macOS]:             https://github.com/qinyuhang/ShadowsocksX-NG-R
+[Travis CI]:         https://travis-ci.org/maxsky/shadowsocksr-manyuser
+[Windows]:           https://github.com/shadowsocksrr/shadowsocksr-csharp
+[Wiki]:              https://github.com/maxsky/shadowsocks-rss/wiki
